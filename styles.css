@@ -11848,6 +11848,10 @@ textarea.form-control-lg {
   width: 60px;
 }
 
+.logo-text {
+  margin-right: 12px;
+}
+
 .dish-img {
   width: 100%;
   height: 225px;
@@ -11873,6 +11877,7 @@ textarea.form-control-lg {
 .image-overlay .lero-description-content {
   position: relative;
   z-index: 20;
+  margin: 20px;
 }
 
 /*# sourceMappingURL=styles.css.map */
